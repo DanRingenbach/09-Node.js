@@ -67,7 +67,7 @@ ${renderLicenseBadge(data.license)}
  ${data.test}
 
 # Questions
- # GitHub [link](https://github.com/${data.github})
+ # [Github](https://github.com/${data.github})
  # Email ${data.email}
 `;
 }

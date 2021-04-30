@@ -1,31 +1,24 @@
- 
-# placeholder
+# 09-Node.js README Generator
 
 ## Description
- placeholder
+The task of this project was to create a simple README file generator using npm Inquirer and Node.js.  The user is prompted in the terminal with a series of questions about their project.  The program the ndynamically creates a README.md file with the user's answers supplied by the terminal prompts.
 ## Table of Contents 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
-- [Tests](#tests)
 - [Questions](#questions)
- - [License](#license)
- 
+
 ## Installation
- placeholder
+ ```npm install```
 ## Usage
- placeholder
+ ```node index.js```
+
+[Walkthrough Video](https://drive.google.com/file/d/1iQPpp-STaoIqOjDi5PtJYCao5wQ8qISd/view)
+
 ## Credits
- placeholder
-## Contributing
- placeholder
+ Dan Ringenbach
 
-## License
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Tests
- placeholder
-
-# Questions
- # GitHub [link](https://github.com/DanRingenbach)
- # Email placeholder
+## Questions
+[GitHub](https://github.com/DanRingenbach)
+ 
